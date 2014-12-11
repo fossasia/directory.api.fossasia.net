@@ -2,5 +2,6 @@
 	"beijinglug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/BeijingLinuxUserGroup-api.json",
 	"ceviz" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/IstanbulCeviz-api.json",
 	"qglug" : "http://test.tymonradzik.pl/QGLUG.json",
-	"pluneplug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/PuneGNU-LinuxUsers-api.json"
+	"pluneplug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/PuneGNU-LinuxUsers-api.json",
+	"q8linux" : "http://test.tymonradzik.pl/Q8linux-api.json"
 }
