@@ -1,4 +1,5 @@
 {
 	"beijinglug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/BeijingLinuxUserGroup-api.json",
-	"ceviz" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/IstanbulCeviz-api.json"
+	"ceviz" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/IstanbulCeviz-api.json",
+	"qglug" : "http://test.tymonradzik.pl/QGLUG.json"
 }
