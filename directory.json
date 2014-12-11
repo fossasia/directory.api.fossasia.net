@@ -3,4 +3,5 @@
 	"ceviz" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/IstanbulCeviz-api.json",
 	"qglug" : "http://test.tymonradzik.pl/QGLUG.json",
 	"pluneplug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/PuneGNU-LinuxUsers-api.json"
+	"Ubuntu-MM" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuMyanmarLoCoTeam.json"
 }
