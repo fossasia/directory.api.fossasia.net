@@ -4,5 +4,6 @@
 	"pluneplug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/PuneGNU-LinuxUsers-api.json",
 	"q8linux" : "http://test.tymonradzik.pl/Q8linux-api.json",
 	"qglug" : "http://test.tymonradzik.pl/QGLUG.json",
-	"Ubuntu-MM" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuMyanmarLoCoTeam.json"
+	"Ubuntu-MM" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuMyanmarLoCoTeam.json",
+	"jolug" : "http://test.tymonradzik.pl/JoLug-api.json"
 }
