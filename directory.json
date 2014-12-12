@@ -6,5 +6,6 @@
 	"q8linux" : "http://test.tymonradzik.pl/Q8linux-api.json",
 	"qglug" : "http://test.tymonradzik.pl/QGLUG.json",
 	"Ubuntu-MM" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuMyanmarLoCoTeam.json",
-	"jolug" : "http://test.tymonradzik.pl/JoLug-api.json"
+	"jolug" : "http://test.tymonradzik.pl/JoLug-api.json",
+	"ubuntu-cy" : "http://test.tymonradzik.pl/Ubuntu-cy-api.json"
 }
