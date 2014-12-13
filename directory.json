@@ -10,5 +10,5 @@
 	"ubuntu-cy" : "http://test.tymonradzik.pl/Ubuntu-cy-api.json",
 	"linuxarabia" : "http://test.tymonradzik.pl/LinuxArabia-api.json",
 	"plug" : "http://test.tymonradzik.pl/PLUG-api.json",
-	"NOSK":"https://github.com/amroto/ramadan/blob/master/NepalOpenSourceKlub-api.json",
+	"NOSK":"https://raw.githubusercontent.com/amroto/ramadan/master/NepalOpenSourceKlub-api.json"
 }
