@@ -14,5 +14,6 @@
 	"linuxpakistan" : "http://test.tymonradzik.pl/LinuxPakistan-api.json",
 	"hklug" : "http://test.tymonradzik.pl/HongKongLinuxUserGroup-api.json",
 	"Dubai DevNights":"https://raw.githubusercontent.com/amroto/ramadan/master/DubaiDevNightsMeetup-api.json",
-	"HackerspaceSG": "github.com/fossasia/directory.api.fossasia.net/blob/master/directory.json"
+	"HackerspaceSG": "github.com/fossasia/directory.api.fossasia.net/blob/master/directory.json",
+	"UbuntuJapaneseTeam" :"https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuJapaneseTeam-api.json"
 }
