@@ -16,5 +16,6 @@
 	"Dubai DevNights":"https://raw.githubusercontent.com/amroto/ramadan/master/DubaiDevNightsMeetup-api.json",
 	"HackerspaceSG": "github.com/fossasia/directory.api.fossasia.net/blob/master/directory.json",
 	"UbuntuJapaneseTeam" :"https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuJapaneseTeam-api.json",
-	"echojakarta" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/echoJakarta.json"
+	"echojakarta" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/echoJakarta.json",
+	"fosscoman" : "http://test.tymonradzik.pl/FOSSC-Oman-api.json"
 }
