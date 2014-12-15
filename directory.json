@@ -23,4 +23,5 @@
 	"CDLug" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChengduGNU-LinuxUserGroupCDLug-api.json",
 	"ChongqingLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChongqingLUG-api.json",
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
+	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json"
 }
