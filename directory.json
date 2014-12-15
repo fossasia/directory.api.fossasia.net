@@ -18,5 +18,6 @@
 	"UbuntuJapaneseTeam" :"https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuJapaneseTeam-api.json",
 	"echojakarta" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/echoJakarta.json",
 	"fosscoman" : "http://test.tymonradzik.pl/FOSSC-Oman-api.json",
-	"FOSSLebaneseMovement": "http://test.tymonradzik.pl/FreeLibreOpenSourceLebaneseMovement-api.json"
+	"FOSSLebaneseMovement": "http://test.tymonradzik.pl/FreeLibreOpenSourceLebaneseMovement-api.json",
+	"SLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/ShanghaiLinuxUserGroup-api.json",
 }
