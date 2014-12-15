@@ -18,5 +18,9 @@
 	"UbuntuJapaneseTeam" :"https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuJapaneseTeam-api.json",
 	"echojakarta" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/echoJakarta.json",
 	"fosscoman" : "http://test.tymonradzik.pl/FOSSC-Oman-api.json",
-	"FOSSLebaneseMovement": "http://test.tymonradzik.pl/FreeLibreOpenSourceLebaneseMovement-api.json"
+	"FOSSLebaneseMovement": "http://test.tymonradzik.pl/FreeLibreOpenSourceLebaneseMovement-api.json",
+	"BdOSN": "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/BangladeshOpenSourceNetwork-api.json",
+	"Mozilla-BD" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/MozillaBangladesh-api.json",
+	"Mozilla-IN" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/MozillaIndia-api.json",
+	"Ubuntu-BD" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/UbuntuBangladeshLoCoTeam-api.json"
 }
