@@ -20,4 +20,7 @@
 	"fosscoman" : "http://test.tymonradzik.pl/FOSSC-Oman-api.json",
 	"FOSSLebaneseMovement": "http://test.tymonradzik.pl/FreeLibreOpenSourceLebaneseMovement-api.json",
 	"SLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/ShanghaiLinuxUserGroup-api.json",
+	"CDLug" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChengduGNU-LinuxUserGroupCDLug-api.json",
+	"ChongqingLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChongqingLUG-api.json",
+	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json"
 }
