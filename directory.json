@@ -23,4 +23,7 @@
 	"CDLug" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChengduGNU-LinuxUserGroupCDLug-api.json",
 	"ChongqingLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChongqingLUG-api.json",
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
+	"KJBUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/KoreaJBossUserGroup-api.json",
+	"STS" : "https://raw.githubusercontent.com/amroto/ramadan/master/SeoulTechSociety-api.json",
+	"UKT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuKoreanTeam-api.json"
 }
