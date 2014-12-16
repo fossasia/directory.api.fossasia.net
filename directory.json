@@ -41,5 +41,8 @@
 	"Linux-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/TurkeyLinuxUsersAssociation-api.json",
 	"Ubuntu-bd" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuBangladeshLoCoTeam-api.json",
 	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuTurkey-api.json",
-	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuVietnam-api.json"
+	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuVietnam-api.json",
+	"Mozilla-myanmar" : "http://test.tymonradzik.pl/mozilla.json",
+	"OpenMM" : "http://test.tymonradzik.pl/mm.json",
+	"joomla-mandalay" : "http://test.tymonradzik.pl/joomla.json"
 }
