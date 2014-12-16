@@ -26,4 +26,5 @@
 	"PLUC": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanLinuxUsersCommunity-api.json",
 	"Pakistan Open Source Organization": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanOpenSourceOrganization-api.json",
 	"PSEB": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanSoftwareExpertBoard-api.json",
+	"ChongqingLUG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/ChongqingLUG-api.json",
 }
