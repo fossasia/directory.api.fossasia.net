@@ -29,5 +29,7 @@
 	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json",
 	"PLUC": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanLinuxUsersCommunity-api.json",
 	"PakistanOpenSourceOrganization": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanOpenSourceOrganization-api.json",
-	"PSEB": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanSoftwareExpertBoard-api.json"
+	"PSEB": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanSoftwareExpertBoard-api.json",
+	"PRUG":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/PhilippineRubyUsersGroup-api.json",
+	"PH-LWUG":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/PH-LWUG-api.json"
 }
