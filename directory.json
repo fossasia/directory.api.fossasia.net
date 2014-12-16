@@ -24,6 +24,7 @@
 	"ChongqingLUG" : "https://raw.githubusercontent.com/anukul/fossasia.api/master/ChongqingLUG-api.json",
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
 	"KJBUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/KoreaJBossUserGroup-api.json",
+	"SITCON" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/SITCON.json",
 	"STS" : "https://raw.githubusercontent.com/amroto/ramadan/master/SeoulTechSociety-api.json",
 	"UKT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuKoreanTeam-api.json",
 	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json",
