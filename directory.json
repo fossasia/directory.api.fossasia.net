@@ -26,7 +26,10 @@
 	"KJBUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/KoreaJBossUserGroup-api.json",
 	"STS" : "https://raw.githubusercontent.com/amroto/ramadan/master/SeoulTechSociety-api.json",
 	"UKT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuKoreanTeam-api.json",
-	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json"
+	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json",
+	"PLUC": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanLinuxUsersCommunity-api.json",
+	"PakistanOpenSourceOrganization": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanOpenSourceOrganization-api.json",
+	"PSEB": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanSoftwareExpertBoard-api.json"
 	"OSN-bd" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/BangladeshOpenSourceNetwork-api.json",
 	"Linux-hanoi" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/HanoiLinuxUserGroup-api.json",
 	"Mozilla-bd" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/MozillaBangladesh-api.json",
