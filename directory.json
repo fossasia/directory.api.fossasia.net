@@ -23,4 +23,7 @@
 	"CDLug" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChengduGNU-LinuxUserGroupCDLug-api.json",
 	"ChongqingLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/ChongqingLUG-api.json",
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
+	"PLUC": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanLinuxUsersCommunity-api.json",
+	"Pakistan Open Source Organization": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanOpenSourceOrganization-api.json",
+	"PSEB": "https://raw.githubusercontent.com/anukul/fossasia.api/master/PakistanSoftwareExpertBoard-api.json",
 }
