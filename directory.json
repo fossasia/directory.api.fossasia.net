@@ -41,5 +41,6 @@
 	"Linux-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/TurkeyLinuxUsersAssociation-api.json",
 	"Ubuntu-bd" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuBangladeshLoCoTeam-api.json",
 	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuTurkey-api.json",
-	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuVietnam-api.json"
+	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuVietnam-api.json",
+	"RCN" : "https://raw.githubusercontent.com/amroto/ramadan/master/RubycommunityofNepal-api.json",
 }
