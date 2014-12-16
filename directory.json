@@ -25,5 +25,6 @@
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
 	"KJBUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/KoreaJBossUserGroup-api.json",
 	"STS" : "https://raw.githubusercontent.com/amroto/ramadan/master/SeoulTechSociety-api.json",
-	"UKT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuKoreanTeam-api.json"
+	"UKT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuKoreanTeam-api.json",
+	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json"
 }
