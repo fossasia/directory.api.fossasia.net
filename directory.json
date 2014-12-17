@@ -47,5 +47,6 @@
 	"Mozilla-myanmar" : "http://test.tymonradzik.pl/mozilla.json",
 	"OpenMM" : "http://test.tymonradzik.pl/mm.json",
 	"joomla-mandalay" : "http://test.tymonradzik.pl/joomla.json",
-	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json"
+	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json",
+	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json"
 }
