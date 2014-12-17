@@ -43,5 +43,6 @@
 	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuTurkey-api.json",
 	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuVietnam-api.json",
 	"Azərbaycan Internet Forumu": "https://raw.githubusercontent.com/anukul/fossasia.api/master/Az%C9%99rbaycan%C4%B0nternetForumu-api.json",
-	"RCN" : "https://raw.githubusercontent.com/amroto/ramadan/master/RubycommunityofNepal-api.json"
+	"RCN" : "https://raw.githubusercontent.com/amroto/ramadan/master/RubycommunityofNepal-api.json",
+	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json"
 }
