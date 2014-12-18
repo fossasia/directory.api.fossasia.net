@@ -49,5 +49,6 @@
 	"joomla-mandalay" : "http://test.tymonradzik.pl/joomla.json",
 	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json",
   "SGLMG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLMG-api.json",
-	"SGLUG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLUG-api.json"
+	"SGLUG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLUG-api.json",
+	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json"
 }
