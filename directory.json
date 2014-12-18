@@ -50,5 +50,15 @@
 	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json",
   "SGLMG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLMG-api.json",
 	"SGLUG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLUG-api.json",
-	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json"
+	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json",
+	"COSCUP" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/COSCUP-api.json",
+	"G0v.tw" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/G0v.tw-api.json",
+	"HanGee" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/HanGee-api.json",
+	"MOPCON" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/MOPCON-api.json",
+	"MOSUT" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/MOSUT-api.json",
+	"MozTW" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/MozTW-MozillaTaiwanCommunity-api.json",
+	"OSSF" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/OSSF(OpenFoundry)-OpenSourceSoftwareFoundry-api.json",
+	"SITCON" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/SITCON(Students'InformationTechnologyConference)-api.json"
+
+	
 }
