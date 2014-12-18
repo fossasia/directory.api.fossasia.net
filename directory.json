@@ -48,5 +48,8 @@
 	"OpenMM" : "http://test.tymonradzik.pl/mm.json",
 	"joomla-mandalay" : "http://test.tymonradzik.pl/joomla.json",
 	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json",
-	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json"
+	"DzongkhaiLGG" : "https://raw.githubusercontent.com/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json",
+	"Unix-atlanta" : "https://raw.githubusercontent.com/fossasia-communities/64705b22feb35439259b682329aa97f39c9e62a3/AtlantaUNIXUsersGroup-api.json",
+	"Linux-GA" : "https://raw.githubusercontent.com/fossasia-communities/64705b22feb35439259b682329aa97f39c9e62a3/LinuxUsersGroupatGeorgiaTech-api.json"
+	
 }
