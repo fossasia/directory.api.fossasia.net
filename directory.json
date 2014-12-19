@@ -52,4 +52,5 @@
 	"SGLUG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLUG-api.json",
 	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json",
 	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json"
+	"Indianlug" : "http://test.tymonradzik.pl/IC.json"
 }
