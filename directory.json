@@ -49,5 +49,6 @@
 	"joomla-mandalay" : "http://test.tymonradzik.pl/joomla.json",
 	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json",
 	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json",
-	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json"
+	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json",
+	"JoziLUG" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/JoziLUG-api.json"
 }
