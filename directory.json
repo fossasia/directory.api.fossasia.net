@@ -53,4 +53,7 @@
 	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json",
 	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json",
 	"UB" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
+	"Manipal-lug" : "http://test.tymonradzik.pl/Manipal.json",
+	"AP-lug" : "http://test.tymonradzik.pl/University.json",
+	"cal lug" : "http://test.tymonradzik.pl/Calcutta.json"
 }
