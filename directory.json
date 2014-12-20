@@ -53,4 +53,6 @@
 	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json",
 	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json",
 	"UB" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
+	"TLUG" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/TokyoLinuxUsersGroup-api.json"
+	"Mozilla JP" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/MozillaJapan-api.json"
 }
