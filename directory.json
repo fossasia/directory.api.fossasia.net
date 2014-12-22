@@ -63,5 +63,6 @@
 	"UPLT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuPalestinianLoCoTeam-api.json",
 	"uplug" : "http://test.tymonradzik.pl/uplug.json",
 	"USALT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuSaudiArabiaLoCoTeam-api.json",
-	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json"
+	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
+	"MN" : "https://raw.githubusercontent.com/amroto/ramadan/master/MozillaNepal-api.json"
 }
