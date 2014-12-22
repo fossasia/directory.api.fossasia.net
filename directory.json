@@ -57,5 +57,6 @@
 	"AP-lug" : "http://test.tymonradzik.pl/University.json",
 	"cal lug" : "http://test.tymonradzik.pl/Calcutta.json",
 	"USALT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuSaudiArabiaLoCoTeam-api.json",
-	"HoLug": "http://test.tymonradzik.pl/saigon.json"
+	"HoLug": "http://test.tymonradzik.pl/saigon.json",
+    "RussianDebianusergroup" : "https://raw.githubusercontent.com/pwmvx1289/fossasia-communities/alvis-1/RussianDebianusergroup-api.json",
 }
