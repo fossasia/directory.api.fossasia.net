@@ -51,7 +51,7 @@
         "SGLMG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLMG-api.json",
 	"DzongkhaiLGG" : "https://raw.githubusercontent.com/hossainalikram/fossasia-communities/master/DzongkhaLinuxGoogleGroup-api.json",
 	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json",
-	"UB" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
+	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
 	"Manipal-lug" : "http://test.tymonradzik.pl/Manipal.json",
 	"AP-lug" : "http://test.tymonradzik.pl/University.json",
 	"cal lug" : "http://test.tymonradzik.pl/Calcutta.json",
@@ -62,4 +62,5 @@
 	"uplug" : "http://test.tymonradzik.pl/uplug.json",
 	"nov lug" : "http://test.tymonradzik.pl/nv.json",
 	"UPLT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuPalestinianLoCoTeam-api.json",
+	"FOSSCO" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSCOman-api.json",
 }
