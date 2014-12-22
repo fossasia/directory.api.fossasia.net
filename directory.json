@@ -58,7 +58,5 @@
 	"cal lug" : "http://test.tymonradzik.pl/Calcutta.json",
 	"USALT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuSaudiArabiaLoCoTeam-api.json",
 	"HoLug": "http://test.tymonradzik.pl/saigon.json",
-	"bluepoint" : "http://test.tymonradzik.pl/bluepoint.json",
-	"phlwug" : "http://test.tymonradzik.pl/phlwug.json",
-	"uplug" : "http://test.tymonradzik.pl/uplug.json"
+	"Novosibirsk-lug" : "http://test.tymonradzik.pl/nv.json"
 }
