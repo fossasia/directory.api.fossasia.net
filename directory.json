@@ -60,11 +60,14 @@
 	"Ubuntu-vn" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuVietnam-api.json",
 	"UbuntuJapaneseTeam" :"https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuJapaneseTeam-api.json",
 	"UKT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuKoreanTeam-api.json",
-	"UPLT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuPalestinianLoCoTeam-api.json",
 	"uplug" : "http://test.tymonradzik.pl/uplug.json",
 	"USALT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuSaudiArabiaLoCoTeam-api.json",
 	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
-	"FOSSCOman" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Added%20community%20of%20Oman",
 	"HoLug": "http://test.tymonradzik.pl/saigon.json",
-	"Novosibirsk-lug" : "http://test.tymonradzik.pl/nv.json"
+	"Novosibirsk-lug" : "http://test.tymonradzik.pl/nv.json",
+	"telaviv" : "http://test.tymonradzik.pl/telaviv.json",
+	"haifa" : "http://test.tymonradzik.pl/haifa.json",
+	"jerusalem" : "http://test.tymonradzik.pl/jerusalem.json",
+	"UPLT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuPalestinianLoCoTeam-api.json",
+	"FOSSCO" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSCOman-api.json"
 }
