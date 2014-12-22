@@ -60,5 +60,8 @@
 	"HoLug": "http://test.tymonradzik.pl/saigon.json",
 	"bluepoint" : "http://test.tymonradzik.pl/bluepoint.json",
 	"phlwug" : "http://test.tymonradzik.pl/phlwug.json",
-	"uplug" : "http://test.tymonradzik.pl/uplug.json"
+	"uplug" : "http://test.tymonradzik.pl/uplug.json",
+	"telaviv" : "http://test.tymonradzik.pl/telaviv.json",
+	"haifa" : "http://test.tymonradzik.pl/haifa.json",
+	"jerusalem" : "http://test.tymonradzik.pl/jerusalem.json"
 }
