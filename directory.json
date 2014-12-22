@@ -62,5 +62,6 @@
 	"uplug" : "http://test.tymonradzik.pl/uplug.json",
 	"nov lug" : "http://test.tymonradzik.pl/nv.json",
 	"UPLT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuPalestinianLoCoTeam-api.json",
-	"FOSSCO" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSCOman-api.json"
+	"FOSSCO" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSCOman-api.json",
+	"Qatar-u" : "https://github.com/manastaneja/communities/blob/master/UbuntuQatar-api.json"
 }
