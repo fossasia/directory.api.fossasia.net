@@ -63,4 +63,5 @@
 	"nov lug" : "http://test.tymonradzik.pl/nv.json",
 	"UPLT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuPalestinianLoCoTeam-api.json",
 	"FOSSCO" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSCOman-api.json",
+	"MN" : "https://raw.githubusercontent.com/amroto/ramadan/master/MozillaNepal-api.json",
 }
