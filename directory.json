@@ -67,5 +67,6 @@
 	"USALT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuSaudiArabiaLoCoTeam-api.json",
 	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
         "SGLMG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLMG-api.json",
-        "MN" : "https://raw.githubusercontent.com/amroto/ramadan/master/MozillaNepal-api.json"
+        "MN" : "https://raw.githubusercontent.com/amroto/ramadan/master/MozillaNepal-api.json",
+        "tehlug" : "http://test.tymonradzik.pl/tehlug.json"
 }
