@@ -111,5 +111,6 @@
 	"KoreaLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/KoreaLUG-api.json",
 	"coLAB":"https://raw.githubusercontent.com/XTremeRox/Communities/master/coLAB-api.json",
 	"PPLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/PPLUG-api.json",
-	"UnPLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/UnPLUG-api.json"
+	"UnPLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/UnPLUG-api.json",
+	"shlug" : "https://raw.githubusercontent.com/pwmvx1289/fossasia-communities/alvis-1/ShanghaiLinuxUserGroup-api.json"
 }
