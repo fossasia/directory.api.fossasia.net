@@ -25,6 +25,7 @@
 	"jolug" : "http://test.tymonradzik.pl/JoLug-api.json",
 	"joomla-mandalay" : "http://test.tymonradzik.pl/joomla.json",
 	"KJBUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/KoreaJBossUserGroup-api.json",
+	"ILUG-Cochin" : "https://raw.githubusercontent.com/jatinluthra14/fossasia-communities/master/IndianLibreUserGroup-Cochin-api.json",
 	"Linux-hanoi" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/HanoiLinuxUserGroup-api.json",
 	"Linux-saigon" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/SaigonLinuxUserGroup-api.json",
 	"Linux-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/TurkeyLinuxUsersAssociation-api.json",
