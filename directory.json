@@ -1,4 +1,4 @@
-{
+﻿{
 	"AP-lug" : "http://test.tymonradzik.pl/University.json",
 	"AzərbaycanInternetForumu": "https://raw.githubusercontent.com/anukul/fossasia.api/master/Az%C9%99rbaycan%C4%B0nternetForumu-api.json",
 	"beijinglug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/BeijingLinuxUserGroup-api.json",
@@ -27,6 +27,7 @@
 	"KJBUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/KoreaJBossUserGroup-api.json",
 	"ILUG-Cochin" : "https://raw.githubusercontent.com/jatinluthra14/fossasia-communities/master/IndianLibreUserGroup-Cochin-api.json",
 	"Linux-hanoi" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/HanoiLinuxUserGroup-api.json",
+	"LUG-Calcutta" : "https://raw.githubusercontent.com/shubhamaggarwal28/fossasia-communities/master/LinuxUsersGroup-Calcutta-api.json",
 	"Linux-saigon" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/SaigonLinuxUserGroup-api.json",
 	"Linux-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/TurkeyLinuxUsersAssociation-api.json",
 	"linuxarabia" : "http://test.tymonradzik.pl/LinuxArabia-api.json",
