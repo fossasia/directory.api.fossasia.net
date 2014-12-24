@@ -1,6 +1,7 @@
 {
 	"AP-lug" : "http://test.tymonradzik.pl/University.json",
 	"AzərbaycanInternetForumu": "https://raw.githubusercontent.com/anukul/fossasia.api/master/Az%C9%99rbaycan%C4%B0nternetForumu-api.json",
+	"Banglore Linux User Group" : "https://github.com/jatinluthra14/fossasia-communities/raw/master/BangaloreLinuxUserGroup-api.json",
 	"beijinglug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/BeijingLinuxUserGroup-api.json",
 	"bluepoint" : "http://test.tymonradzik.pl/bluepoint.json",
 	"cal lug" : "http://test.tymonradzik.pl/Calcutta.json",
