@@ -69,5 +69,6 @@
 	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
 	"SGLMG": "https://raw.githubusercontent.com/anukul/fossasia.api/master/SLMG-api.json",
 	"MN" : "https://raw.githubusercontent.com/amroto/ramadan/master/MozillaNepal-api.json",
-	"FOSSNC" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSNepalCommunity-api.json"
+	"FOSSNC" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSNepalCommunity-api.json",
+	"RussianDebianusergroup" : "https://raw.githubusercontent.com/pwmvx1289/fossasia-communities/alvis-1/RussianDebianusergroup-api.json"
 }
