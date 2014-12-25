@@ -19,6 +19,7 @@
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
 	"HoLug": "http://test.tymonradzik.pl/saigon.json",
 	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json",
+	"Isfahan" : "http://test.tymonradzik.pl/iran.json"
 	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json",
 	"jerusalem" : "http://test.tymonradzik.pl/jerusalem.json",
 	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json",
