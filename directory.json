@@ -1,4 +1,5 @@
 {
+	"AOSI" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/AOSI-api.json",
 	"AP-lug" : "http://test.tymonradzik.pl/University.json",
 	"AzərbaycanInternetForumu": "https://raw.githubusercontent.com/anukul/fossasia.api/master/Az%C9%99rbaycan%C4%B0nternetForumu-api.json",
 	"beijinglug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/BeijingLinuxUserGroup-api.json",
@@ -19,7 +20,7 @@
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
 	"HoLug": "http://test.tymonradzik.pl/saigon.json",
 	"IOR" : "https://raw.githubusercontent.com/amroto/ramadan/master/IranOnRails-api.json",
-	"Isfahan" : "http://test.tymonradzik.pl/iran.json"
+	"Isfahan" : "http://test.tymonradzik.pl/iran.json",
 	"ISOC" : "https://raw.githubusercontent.com/XTremeRox/Communities/master/InternetSocietyofArmenia(ISOCAM)-api.json",
 	"jerusalem" : "http://test.tymonradzik.pl/jerusalem.json",
 	"jmilug" : "http://test.tymonradzik.pl/jmilug-api.json",
