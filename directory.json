@@ -19,7 +19,6 @@
 	"FOSSLebaneseMovement": "http://test.tymonradzik.pl/FreeLibreOpenSourceLebaneseMovement-api.json",
 	"FOSSNC" : "https://raw.githubusercontent.com/amroto/ramadan/master/FOSSNepalCommunity-api.json",
 	"GDGH" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/GoogleDevelopersGroupHyderabad-api.json",
-	"HackerspaceSG": "github.com/fossasia/directory.api.fossasia.net/blob/master/directory.json",
 	"haifa" : "http://test.tymonradzik.pl/haifa.json",
 	"hklug" : "http://test.tymonradzik.pl/HongKongLinuxUserGroup-api.json",
 	"HLUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/HebeiLinuxUserGroup-api.json",
