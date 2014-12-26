@@ -86,5 +86,8 @@
 	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
 	"C-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Coimbatore-lug",
 	"D-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Durgapur-lug",
-	"M-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Madurai-lug"
+	"M-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Madurai-lug",
+	"p-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/The-Phnom-Penh-GNU/linux%20group",
+	"OSC" : "https://raw.githubusercontent.com/manastaneja/communities/master/Open%20source%20Cambodia.json
+	
 }
