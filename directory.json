@@ -34,6 +34,7 @@
 	"joomla-mandalay" : "http://test.tymonradzik.pl/joomla.json",
 	"KJBUG" : "https://raw.githubusercontent.com/amroto/ramadan/master/KoreaJBossUserGroup-api.json",
 	"KolkataNET":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/KolkataNET-api.json",
+	"Linux-Bahrain": "https://raw.githubusercontent.com/chaconne7/communities/master/LinuxBahrain-api.json",
 	"Linux-hanoi" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/HanoiLinuxUserGroup-api.json",
 	"Linux-saigon" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/SaigonLinuxUserGroup-api.json",
 	"Linux-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/TurkeyLinuxUsersAssociation-api.json",
