@@ -114,4 +114,5 @@
 	"UnPLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/UnPLUG-api.json",
 	"shlug" : "https://raw.githubusercontent.com/pwmvx1289/fossasia-communities/alvis-1/ShanghaiLinuxUserGroup-api.json",
 	"tossug" : "https://raw.githubusercontent.com/pwmvx1289/fossasia-communities/master/TaipeiOpenSourceSoftwareUserGroup-api.json",
+	"kalug" : "https://raw.githubusercontent.com/pwmvx1289/fossasia-communities/master/KaohsiungLinuxUserGroup-api.json"
 }
