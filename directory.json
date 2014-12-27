@@ -24,7 +24,7 @@
 	"GULCT": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Georgia/GeorgianUbuntuLocalCommunityTeam-api.json",
 	"AIOUC": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/India/AllIndiaOracleUserGroup-api.json",
 	"BP": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/India/BangPypers-api.json",
-	"TCLUG": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/India/D-LUG.json",
+	"TCLUG": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/India/Coimbatore-lug",
 	"DLUG": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/India/Durgapur-lug",
 	"GDGH": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/India/GoogleDevelopersGroupHyderabad-api.json",
 	"ILUGC": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/India/IndianLibreUserGroup-Cochin-api.json",
@@ -105,4 +105,6 @@
 	"H0LUG": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Vietnam/saigon.json",
 	"YGNU": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Yemen/Linux%20Association",
 	"LA": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Yemen/LinuxArabia-api.json",
+	"MT": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Thailand/MozillaThailand-api.json",
+	"UTLT": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Thailand/UbuntuThaiLocoTeam-api.json",
 }
