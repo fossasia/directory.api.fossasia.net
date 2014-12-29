@@ -86,5 +86,6 @@
 	"UT" : "https://raw.githubusercontent.com/amroto/ramadan/master/UbuntuTurkey-api.json",
 	"C-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Coimbatore-lug",
 	"D-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Durgapur-lug",
-	"M-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Madurai-lug"
+	"M-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Madurai-lug",
+	"volgograd": "https://raw.githubusercontent.com/ty221/fossasia-com/master/volgograd.json"
 }
