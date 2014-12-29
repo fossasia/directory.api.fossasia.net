@@ -73,7 +73,8 @@
 	"spblug" : "http://test.tymonradzik.pl/spblug.json",
 	"STS" : "https://raw.githubusercontent.com/amroto/ramadan/master/SeoulTechSociety-api.json",
 	"telaviv" : "http://test.tymonradzik.pl/telaviv.json",
-	"Ubuntu-bd" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuBangladeshLoCoTeam-api.json",
+	"The'Holey'Junkyard" : "https://github.com/mjuvekar7/fossasia-communities/blob/master/The'Holey'Junkyard-api.json"
+    "Ubuntu-bd" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuBangladeshLoCoTeam-api.json",
 	"ubuntu-cy" : "http://test.tymonradzik.pl/Ubuntu-cy-api.json",
 	"Ubuntu-MM" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuMyanmarLoCoTeam.json",
 	"Ubuntu-tr" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/UbuntuTurkey-api.json",
