@@ -9,7 +9,7 @@
 	"WB": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Bangladesh/WikimediaBangladesh-api.json",
 	"DLGG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Bhutan/DzongkhaLinuxGoogleGroup-api.json",
 	"MC": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cambodia/MozillaCAMBODIA-api.json",
-	"ODC" "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cambodia/OpenDevCam-api.json",
+	"ODC" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cambodia/OpenDevCam-api.json",
 	"UCT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cambodia/UbuntuCambodiateam-api.json",
 	"BLUG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/China/BeijingLinuxUserGroup-api.json",
 	"CDLug": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/China/ChengduGNU-LinuxUserGroupCDLug-api.json",
@@ -106,5 +106,5 @@
 	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association",
 	"LA": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/LinuxArabia-api.json",
 	"MT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/MozillaThailand-api.json",
-	"UTLT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/UbuntuThaiLocoTeam-api.json",
+	"UTLT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/UbuntuThaiLocoTeam-api.json"
 }
