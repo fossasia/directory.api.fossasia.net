@@ -92,6 +92,7 @@
 	"TSLMG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Singapore/SLMG-api.json",
 	"SUSELUG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Singapore/SLUG-api.json",
 	"USALT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Saudi%20Arabia/UbuntuSaudiArabiaLoCoTeam-api.json",
+	"JOZILUG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/South%20Africa/JoziLUG-api.json",
 	"PERLUG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Srilanka/PeradeniyaLinuxUserGroup-api.json",
 	"SITCON": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Taiwan/SITCON.json",
 	"IC": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Turkey/IstanbulCeviz-api.json",
@@ -106,6 +107,5 @@
 	"LA": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/LinuxArabia-api.json",
 	"MT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/MozillaThailand-api.json",
 	"UTLT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/UbuntuThaiLocoTeam-api.json",
-	"PERLMONG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/PerlMongers-api.json",
-	"JLC":"https://raw.githubusercontent.com/XTremeRox/Communities/master/JerusalemLinux-api.json"
+	"OSHK": "http://elearn.pyc.edu.hk/console/files/google/OpenSourceHongKong-api.json"
 }
