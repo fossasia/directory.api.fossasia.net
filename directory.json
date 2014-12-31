@@ -107,5 +107,6 @@
 	"MT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/MozillaThailand-api.json",
 	"UTLT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/UbuntuThaiLocoTeam-api.json",
 	"PERLMONG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/PerlMongers-api.json",
-	"JLC":"https://raw.githubusercontent.com/XTremeRox/Communities/master/JerusalemLinux-api.json"
+	"JLC":"https://raw.githubusercontent.com/XTremeRox/Communities/master/JerusalemLinux-api.json",
+	"KoreaLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/KoreaLUG-api.json"
 }
