@@ -115,4 +115,5 @@
 	"PPLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/PPLUG-api.json",
 	"UnPLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/UnPLUG-api.json",
 	"LUG@GT":"https://raw.githubusercontent.com/XTremeRox/Communities/master/LUG@GT-api.json"
+	"CLUG" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/ChongqingLUG.json"
 }
