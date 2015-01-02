@@ -1,6 +1,6 @@
 Guidelines
 =========
-1- Please fork the fossasia-communities this the URL ---> https://github.com/fossasia/fossasia-communities
+1- Please fork the fossasia-communities this the URL: https://github.com/fossasia/fossasia-communities
 
 2- Add your .JSON file on your fork in a country folder, depending on where the community you added exists, then create Pull Requesst
 
