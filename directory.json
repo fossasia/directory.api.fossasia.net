@@ -1,4 +1,5 @@
 {
+	"AULT": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Afghanistan/AfghanistanUbuntuLoCoTeam-api.json",
 	"ISOC": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Armenia/InternetSocietyofArmenia(ISOCAM)-api.json",
 	"AIF": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Azerbaijan/Azerbaijan-api.json",
 	"BLUA": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Bangladesh/BangladeshLinuxUsersAlliance-api.json",
@@ -21,6 +22,7 @@
 	"UCLT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/China/UbuntuChinaLoCoTeam-api.json",
 	"UCY": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cyprus/Ubuntu-cy-api.json",
 	"DevNights": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Dubai/DubaiDevNightsMeetup-api.json",
+	"UELT": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Egypt/UbuntuEgyptLoCoTeam-api.json",
 	"GULCT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Georgia/GeorgianUbuntuLocalCommunityTeam-api.json",
 	"AIOUC": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/AllIndiaOracleUserGroup-api.json",
 	"BP": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/BangPypers-api.json",
