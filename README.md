@@ -9,9 +9,11 @@ Guidelines
 EX:
 
 (Before)
+
   https://raw.githubusercontent.com/USERNAME/fossasia-communities/master/China/ChengduGNU-LinuxUserGroupCDLug-api.json
   
 (After)
+
   https://raw.githubusercontent.com/fossasia/fossasia-communities/master/China/ChengduGNU-LinuxUserGroupCDLug-api.json
   
 4-When you add the link add it alphabatically according to the country folders
