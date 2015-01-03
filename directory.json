@@ -135,5 +135,5 @@
   	"mashhad": "http://test.tymonradzik.pl/mashhad.json",
   	"tehlug" : "http://test.tymonradzik.pl/tehlug.json",
 	"MOSS": "https://raw.githubusercontent.com/siddhantrath/fossasia/master/MOSS-api.json",
-    "FOSSLebaneseMovement" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/FreeLibreOpenSourceLebaneseMovement-api.json"
+    "FOSSLebaneseMovement" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Lebanon/FreeLibreOpenSourceLebaneseMovement-api.json"
 }
