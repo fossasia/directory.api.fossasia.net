@@ -123,5 +123,6 @@
 	"WB": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Bangladesh/WikimediaBangladesh-api.json",
 	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association",
 	"TLUG" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/TokyoLinuxUsersGroup-api.json",
-  	"Jenkins-JP" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/Jenkins-JP.json"
+  	"Jenkins-JP" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/Jenkins-JP.json",
+  	"volgograd": "https://raw.githubusercontent.com/ty221/fossasia-com/master/volgograd.json"
 }
