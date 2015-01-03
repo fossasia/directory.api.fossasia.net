@@ -146,5 +146,6 @@
 	"srec-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/srec-lug",
 	"bitlug" : "https://raw.githubusercontent.com/manastaneja/communities/master/BITLUG",
 	"nsec-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/nsec-lug",
-	"TU-LUG" : "https://raw.githubusercontent.com/manastaneja/communities/master/TU-LUG"
+	"TU-LUG" : "https://raw.githubusercontent.com/manastaneja/communities/master/TU-LUG",
+	"mluuug" : "http://tymonradzik.pl/mlug.json"
 }
