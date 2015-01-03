@@ -149,5 +149,7 @@
 	"TU-LUG" : "https://raw.githubusercontent.com/manastaneja/communities/master/TU-LUG",
 	"MLUUG" : "http://tymonradzik.pl/mlug.json",
 	"DGTUG":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/DubaiGTUG-api.json",
-	"DSUG":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/DubaiSharePointUserGroup-api.json"
+	"DSUG":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/DubaiSharePointUserGroup-api.json",
+	"OUGTH":"https://raw.githubusercontent.com/samarjeet27/fossasia-communities/master/ORACLEUSERGROUPINTHAILAND-api.json",
+	"THROR":"https://raw.githubusercontent.com/samarjeet27/fossasia-communities/master/ThaiRubyOnRails-api.json"
 }
