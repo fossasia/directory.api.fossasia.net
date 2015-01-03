@@ -139,5 +139,6 @@
     "CHITS":"https://raw.githubusercontent.com/amanahmed/communities/master/CHITS.json",
 	"Glug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Guangzhou-lug",
 	"klug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Kaohsiung-lug",
-	"taipeilug" : "https://raw.githubusercontent.com/manastaneja/communities/master/taipei%20ossug"
+	"taipeilug" : "https://raw.githubusercontent.com/manastaneja/communities/master/taipei%20ossug",
+	"X-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Xiyou%20lug"
 }
