@@ -125,5 +125,6 @@
 	"TLUG" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/TokyoLinuxUsersGroup-api.json",
   	"Jenkins-JP" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/Jenkins-JP.json",
   	"volgograd": "https://raw.githubusercontent.com/ty221/fossasia-com/master/volgograd.json",
-  	"mashhad": "http://test.tymonradzik.pl/mashhad.json"
+  	"mashhad": "http://test.tymonradzik.pl/mashhad.json",
+  	"tehlug" : "http://test.tymonradzik.pl/tehlug.json"
 }
