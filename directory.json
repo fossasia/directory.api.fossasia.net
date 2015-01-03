@@ -137,5 +137,7 @@
 	"MOSS": "https://raw.githubusercontent.com/siddhantrath/fossasia/master/MOSS-api.json",
     "FOSSLebaneseMovement" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Lebanon/FreeLibreOpenSourceLebaneseMovement-api.json",
     "CHITS":"https://raw.githubusercontent.com/amanahmed/communities/master/CHITS.json",
-	"Glug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Guangzhou-lug"
+	"Glug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Guangzhou-lug",
+	"klug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Kaohsiung-lug",
+	"taipeilug" : "https://raw.githubusercontent.com/manastaneja/communities/master/taipei%20ossug"
 }
