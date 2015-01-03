@@ -133,5 +133,6 @@
   	"Jenkins-JP" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/Jenkins-JP.json",
   	"volgograd": "https://raw.githubusercontent.com/ty221/fossasia-com/master/volgograd.json",
   	"mashhad": "http://test.tymonradzik.pl/mashhad.json",
-  	"tehlug" : "http://test.tymonradzik.pl/tehlug.json"
+  	"tehlug" : "http://test.tymonradzik.pl/tehlug.json",
+	"MOSS": "https://github.com/siddhantrath/fossasia/raw/master/MOSS-api.json"
 }
