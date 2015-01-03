@@ -147,5 +147,7 @@
 	"BITLUG" : "https://raw.githubusercontent.com/manastaneja/communities/master/BITLUG",
 	"NSEC-LUG" : "https://raw.githubusercontent.com/manastaneja/communities/master/nsec-lug",
 	"TU-LUG" : "https://raw.githubusercontent.com/manastaneja/communities/master/TU-LUG",
-	"MLUUG" : "http://tymonradzik.pl/mlug.json"
+	"MLUUG" : "http://tymonradzik.pl/mlug.json",
+	"DGTUG":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/DubaiGTUG-api.json",
+	"DSUG":"https://raw.githubusercontent.com/fossasia/fossasia-communities/master/DubaiSharePointUserGroup-api.json"
 }
