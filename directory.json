@@ -121,5 +121,7 @@
 	"UUAE": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/United%20Arab%20Emirates/UbuntuUAELoCoTeam-api.json",
 	"UV": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Vietnam/UbuntuVietnam-api.json",
 	"WB": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Bangladesh/WikimediaBangladesh-api.json",
-	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association"
+	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association",
+	"TLUG" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/TokyoLinuxUsersGroup-api.json",
++  	"Jenkins-JP" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/10.%20Add%20some%20Japan%20communities/Jenkins-JP.json"
 }
