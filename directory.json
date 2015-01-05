@@ -61,6 +61,7 @@
 	"KNET": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/KolkataNET-api.json",
 	"KoreaLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/KoreaLUG-api.json",
 	"LA": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/LinuxArabia-api.json",
+	"LB": "https://raw.githubusercontent.com/apoorvk/fossasia-communities/a57feedcadab0cd101c3803ecefda67b1f1fca21/Lebanon/LebanonOpenSourceSoftware-api.json",
 	"LP": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Pakistan/LinuxPakistan-api.json",
 	"LR": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Russia/LinuxRussia-api.json",
 	"LUGM": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/Manipal.json",
