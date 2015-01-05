@@ -62,7 +62,6 @@
 	"MN": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Nepal/MozillaNepal-api.json",
 	"MOPCON" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/MOPCON-api.json",
 	"MOSUT" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/MOSUT-api.json",
-	"MOZJP" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Japan/MozillaJapan-api.json",
 	"MR": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Russia/MozillaRussia-api.json",
 	"MTH": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/MozillaThailand-api.json",
 	"MT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Turkey/MozillaTurkey-api.json",
@@ -142,6 +141,7 @@
 	"klug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Kaohsiung-lug",
 	"taipeilug" : "https://raw.githubusercontent.com/manastaneja/communities/master/taipei%20ossug",
 	"X-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/Xiyou%20lug",
+	"Yoko-lug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Japan/YokohamaLinuxUserGroup-api.json",
 	"DAIICT" : "https://raw.githubusercontent.com/manastaneja/communities/master/DAIICT-lug",
 	"RV-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/R.V.%20LUG",
 	"srec-lug" : "https://raw.githubusercontent.com/manastaneja/communities/master/srec-lug"
