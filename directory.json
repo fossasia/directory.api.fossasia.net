@@ -89,6 +89,7 @@
 	"ODC" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cambodia/OpenDevCam-api.json",
 	"OMM": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Myanmar/mm.json",
 	"OMSKLUG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Russia/OmskLinuxUserGroup-api.json",
+	"OpenHackTaipei" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Taiwan/OpenHackTaipei-api.json",
 	"OSC" : "https://raw.githubusercontent.com/manastaneja/communities/master/Open%20source%20Cambodia.json",
 	"OSHK": "http://elearn.pyc.edu.hk/console/files/google/OpenSourceHongKong-api.json",
 	"OSSF" : "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/OSSF(OpenFoundry)-OpenSourceSoftwareFoundry-api.json",
