@@ -1,4 +1,4 @@
-![Build Status](https://travis-ci.org/samarjeet27/directory.api.fossasia.net.svg)
+![Build Status](https://travis-ci.org/fossasia/directory.api.fossasia.net.svg)
 
 Guidelines
 =========
