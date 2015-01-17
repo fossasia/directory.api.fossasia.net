@@ -1,5 +1,4 @@
-![Build Status](https://travis-ci.org/fossasia/directory.api.fossasia.net.svg)
-
+[![Build Status](https://travis-ci.org/fossasia/directory.api.fossasia.net.svg?branch=master)](https://travis-ci.org/fossasia/directory.api.fossasia.net)
 
 Guidelines
 =========
