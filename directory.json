@@ -1,5 +1,4 @@
 {
-	"AIF": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Azerbaijan/Azerbaijan-api.json",
 	"AOSI": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Indonesia/AsosiasiOpenSourceIndonesia-api.json",
 	"AULT": "https://raw.githubusercontent.com/amroto/fossasia-communities/master/Afghanistan/AfghanistanUbuntuLoCoTeam-api.json",
 	"BF": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Phillippine/bluepoint.json",
@@ -131,7 +130,6 @@
 	"TULT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Tajikistan/TajikUbuntuLocalizationTeam-api.json",
 	"TUSG": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Singapore/TeamUbuntuSingapore",
 	"UBLT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Bangladesh/UbuntuBangladeshLoCoTeam-api.json",
-	"UCLT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/China/UbuntuChinaLoCoTeam-api.json",
 	"UCT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cambodia/UbuntuCambodiateam-api.json",
 	"UCY": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Cyprus/Ubuntu-cy-api.json",
 	"UELT": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Egypt/UbuntuEgyptLoCoTeam-api.json",
