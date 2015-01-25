@@ -77,6 +77,8 @@
 	"MOPCON": "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/MOPCON-api.json",
 	"MOSS": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Maldives/MOSS-api.json",
 	"MOSUT": "https://raw.githubusercontent.com/seadog007/Google-Code-In/master/5.%20Add%20some%20Taiwan%20communities/MOSUT-api.json",
+	"MOZ-HK" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/China/MozillaHongKong-api.json",
+	"MOZ-Kerala" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/MozillaKerala-api.json",
 	"MR": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Russia/MozillaRussia-api.json",
 	"MOZSL": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Sri%20Lanka/MozillaSriLanka-api.json",
 	"MTH": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Thailand/MozillaThailand-api.json",
@@ -155,5 +157,6 @@
 	"VFOSSA": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Vietnam/VFOSSA-api.json",
 	"VOLGOGRAD": "https://raw.githubusercontent.com/ty221/fossasia-com/master/volgograd.json",
 	"X-LUG": "https://raw.githubusercontent.com/manastaneja/communities/master/Xiyou%20lug",
-	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association"
+	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association",
+	"Yoko-lug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Japan/YokohamaLinuxUserGroup-api.json"
 }
