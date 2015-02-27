@@ -1,6 +1,7 @@
 language: python
 python:
   - "2.6"
-  - "2.7"
+before_script: "git clone https://github.com/fossasia/api.fossasia.net.git"
+install: "pip install jsonschema"
 # command to run tests
 script: python tests/test.py
