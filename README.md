@@ -1,3 +1,28 @@
+[![Build Status](https://travis-ci.org/fossasia/directory.api.fossasia.net.svg?branch=master)](https://travis-ci.org/fossasia/directory.api.fossasia.net)
+
+Guidelines
+=========
+1- Please fork the fossasia-communities from this the URL: https://github.com/fossasia/fossasia-communities
+
+2- In your fork, add your .JSON file in a country folder, depending on where the community you added exists, then create Pull Request
+
+3- Finally, add the raw link to directory.json but remember to replace your username with fossasia.
+
+EX:
+
+(Before)
+
+  https://raw.githubusercontent.com/USERNAME/fossasia-communities/master/China/ChengduGNU-LinuxUserGroupCDLug-api.json
+  
+(After)
+
+  https://raw.githubusercontent.com/fossasia/fossasia-communities/master/China/ChengduGNU-LinuxUserGroupCDLug-api.json
+  
+4-When you add the link add it alphabatically according to the country folders
+
+(note: In case the community's country does not have a country folder, please create one)
+
+And Thank you for your contribution!
 Directory
 =========
 
