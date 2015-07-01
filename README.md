@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/fossasia/directory.api.fossasia.net.svg?branch=master)](https://travis-ci.org/fossasia/directory.api.fossasia.net)
+[![Join the chat at https://gitter.im/fossasia/api.fossasia.net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/api.fossasia.net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/fossasia/directory.api.fossasia.net.svg?branch=master)](https://travis-ci.org/fossasia/directory.api.fossasia.net) 
 
 Guidelines
 =========
@@ -22,7 +22,10 @@ EX:
 
 (note: In case the community's country does not have a country folder, please create one)
 
-And Thank you for your contribution!
+And Thank you for your contribution! 
+
+If you have any problem, feel free to drop a question in our [gitter chatroom](https://gitter.im/fossasia/api.fossasia.net).
+
 Directory
 =========
 
