@@ -64,6 +64,7 @@
 	"KoreaLUG":"https://raw.githubusercontent.com/XTremeRox/Communities/master/KoreaLUG-api.json",
 	"LA": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/LinuxArabia-api.json",
 	"LB": "https://raw.githubusercontent.com/apoorvk/fossasia-communities/a57feedcadab0cd101c3803ecefda67b1f1fca21/Lebanon/LebanonOpenSourceSoftware-api.json",
+    "LILO": "https://raw.githubusercontent.com/Yathannsh/fossasia-communities/master/Japan/LinuxInstallLearningOsaka-api.json",
 	"LKRug": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Sri%20Lanka/rubyologistsLanka-api.json",
 	"LP": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Pakistan/LinuxPakistan-api.json",
 	"LR": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Russia/LinuxRussia-api.json",
