@@ -168,5 +168,6 @@
 	"VOLGOGRAD": "https://raw.githubusercontent.com/ty221/fossasia-com/master/volgograd.json",
 	"X-LUG": "https://raw.githubusercontent.com/manastaneja/communities/master/Xiyou%20lug",
 	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association",
+	"GDG" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/gdg_newdelhi.json",
 	"Yoko-lug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Japan/YokohamaLinuxUserGroup-api.json"
 }
