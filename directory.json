@@ -169,5 +169,6 @@
 	"X-LUG": "https://raw.githubusercontent.com/manastaneja/communities/master/Xiyou%20lug",
 	"YGNU": "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Yemen/Linux%20Association",
 	"GDG" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/gdg_newdelhi.json",
+	"PYDEL" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/India/pydelhi.json",
 	"Yoko-lug" : "https://raw.githubusercontent.com/fossasia/fossasia-communities/master/Japan/YokohamaLinuxUserGroup-api.json"
 }
