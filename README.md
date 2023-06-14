@@ -46,3 +46,5 @@ The FOSSASIA API is designed to collect metadata of communities in a decentral w
 License
 =======
 - Calender Icon: Creative Commons Attribution-Share Alike 3.0 Unported license: Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome
+
+NOW YOU VAN USE YHIS APP.
